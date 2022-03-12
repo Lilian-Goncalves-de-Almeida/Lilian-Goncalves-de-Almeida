@@ -21,6 +21,7 @@
   ### Meus contatos abaixo!
  
 <div> 
+  <a href="http://lattes.cnpq.br/4870833871557248" target="_blank"><img src="https://img.shields.io/badge/-Lattes-%23003A88?style=for-the-badge" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCqLilg-Md7gTRoAsmWewEsg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "lilian.goncalves@dcx.ufpb.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/linebinegames/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
