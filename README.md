@@ -21,12 +21,12 @@
   ### Meus contatos abaixo!
  
 <div> 
-  <a href="http://lattes.cnpq.br/4870833871557248" target="_blank"><img src="https://img.shields.io/badge/-Lattes-%23003A88?style=for-the-badge" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCqLilg-Md7gTRoAsmWewEsg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "lilian.goncalves@dcx.ufpb.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/linebinegames/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/lilian-gon%C3%A7alves-de-almeida-991143199?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.deviantart.com/linebinegames" target="_blank"><img src="https://img.shields.io/badge/-DeviantArt-%627870?style=for-the-badge&logo=deviantart&logoColor=white" target="_blank"></a>
+  <a href="http://lattes.cnpq.br/4870833871557248" target="_blank"><img src="https://img.shields.io/badge/-Lattes-%23003A88?style=for-the-badge" target="_blank"></a>
  
   ![Snake animation](https://github.com/Lilian-Goncalves-de-Almeida/Lilian-Goncalves-de-Almeida/blob/output/github-contribution-grid-snake.svg)
 
